@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-deploy/static/css/main.30633702.css",
+    "main.js": "/react-deploy/static/js/main.108ad674.js",
+    "static/media/finance-accounting-paper-desk-using.jpg": "/react-deploy/static/media/finance-accounting-paper-desk-using.f5e2c8ba5a1d951bb66c.jpg",
+    "static/media/portfgf.jpg": "/react-deploy/static/media/portfgf.455929b6a9d115c525d9.jpg",
+    "static/media/form.jpg": "/react-deploy/static/media/form.657063ca780c79035514.jpg",
+    "static/media/hobb.png": "/react-deploy/static/media/hobb.306936861a46f9b71344.png",
+    "static/media/hohoy.png": "/react-deploy/static/media/hohoy.b1a40d40eedbc0b6f543.png",
+    "static/media/CV-Rian-Hidayat.pdf": "/react-deploy/static/media/CV-Rian-Hidayat.f3b1ea918e5ad1b2077f.pdf",
+    "static/media/exp.png": "/react-deploy/static/media/exp.e21bb3c7ef45d8f5e453.png",
+    "static/media/personality.png": "/react-deploy/static/media/personality.f6e7c23e3cf255c6e33e.png",
+    "index.html": "/react-deploy/index.html",
+    "main.30633702.css.map": "/react-deploy/static/css/main.30633702.css.map",
+    "main.108ad674.js.map": "/react-deploy/static/js/main.108ad674.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30633702.css",
+    "static/js/main.108ad674.js"
+  ]
+}
