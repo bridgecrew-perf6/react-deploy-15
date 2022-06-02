@@ -1,0 +1,25 @@
+nav {
+  background-color: #111d23;
+}
+
+.navbar-brand {
+  font-family: var(--font-brand);
+  font-size: 40px;
+}
+
+.navbar-nav > li > a {
+  font-family: var(--font-all);
+  font-weight: 300;
+  margin: 0 10px;
+  border: 2px solid #111d23;
+  color: white !important;
+}
+
+.navbar-nav > li > a.active,
+.navbar-nav > li > a.active:focus {
+  border-top: 2px solid var(--main-color);
+}
+
+.navbar-nav > li > a:hover {
+  border-top: 2px solid var(--main-color);
+}

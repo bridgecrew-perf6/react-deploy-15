@@ -1,0 +1,49 @@
+.card {
+  width: 17rem;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.card-text {
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+.card-title {
+  font-size: 25px;
+  color: var(--main-color);
+  border-bottom: 1px solid wheat;
+}
+
+img.card-img-top {
+  height: 50%;
+}
+
+.tombol-crd {
+  text-decoration: none;
+  border: 2px solid var(--main-color);
+  border-radius: 20px;
+  color: var(--main-color);
+  font-size: 20px;
+  padding: 7px;
+  transition: 0.5s;
+}
+
+.tombol-crd:hover {
+  box-shadow: 0 0 17px 0 var(--main-color);
+  color: var(--main-color);
+}
+
+@media (max-width: 768px) {
+  .card {
+    width: 15rem;
+    height: 100%;
+  }
+
+  .card-tittle {
+    font-size: 23px;
+  }
+  .card-text {
+    font-size: 18px;
+  }
+}

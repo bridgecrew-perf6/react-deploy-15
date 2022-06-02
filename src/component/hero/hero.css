@@ -1,0 +1,63 @@
+/* KONTEN KIRI */
+
+.hello {
+  font-size: 15px;
+}
+
+.fresh {
+  font-size: 17px;
+}
+.rh {
+  font-size: 35px;
+}
+
+.hero-text {
+  margin-bottom: 30px;
+}
+
+a.btn-cv {
+  text-decoration: none;
+  color: var(--main-color);
+  padding: 10px;
+  border-radius: 20px;
+  font-size: 18px;
+  border: 2px solid var(--main-color);
+  text-transform: uppercase;
+  transition: 0.4s;
+}
+
+a.btn-cv:hover {
+  box-shadow: 0 0 17px 0 var(--main-color);
+  color: var(--main-color);
+}
+
+/* KONTEN KANAN */
+.profile {
+  border-radius: 50px 50px 0 0;
+  padding-top: 30px;
+  width: 280px;
+  height: 340px;
+  background-color: #111d23;
+  margin: 0 auto;
+  box-shadow: 0 0 35px 0 var(--main-color);
+}
+
+.me {
+  margin: 0 auto;
+  width: 230px;
+}
+
+@media (max-width: 768px) {
+  a.btn-cv {
+    font-size: 15px;
+  }
+
+  .profile {
+    width: 240px;
+    height: 300px;
+  }
+
+  .me {
+    width: 190px;
+  }
+}
