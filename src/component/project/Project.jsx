@@ -44,7 +44,7 @@ const Project = () => {
               <div className='card-body'>
                 <p className='card-title'>Form Validate</p>
                 <p className='card-text'>Create simple form validate with HTML,CSS, Javascript and Sweet Alert</p>
-                <a href='https://github.com/rianhz/face-recognition-using-haar-cascade-and-local-binary-patern-histogram' class='tombol-crd'>
+                <a href='https://github.com/rianhz/react-deploy' class='tombol-crd'>
                   Github
                 </a>
               </div>
